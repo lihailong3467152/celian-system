@@ -2767,7 +2767,7 @@ def render_sidebar():
         else:
             st.markdown(f"""
             <div style="text-align: center; padding: 20px; background: rgba(255,255,255,0.1); border-radius: 10px; margin-bottom: 20px;">
-                <div style="font-size: 24px; font-weight: bold; color: #fff;">第三方评估系统</div>
+                <div style="font-size: 24px; font-weight: bold; color: #fff;">策链系统</div>
             </div>
             """, unsafe_allow_html=True)
         
